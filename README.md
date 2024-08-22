@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Todoly App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![todfo](https://github.com/user-attachments/assets/2d2ca16d-a6ca-4d72-9a2b-804fbae2a81d)
+
 
 ## Available Scripts
 
