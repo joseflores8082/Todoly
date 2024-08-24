@@ -23,6 +23,12 @@ Use local state, context, or local storage to store todo items
 ### Planning
 Plan out your steps and get started. Focus on functionality not styling for now.
 
+### Todo object
+{ id: someUniqueIdOnCreation, text: 'finish studying' }
+
+example:
+{id: 1, text: 'finish studying' }
+
 ### Styling
 Move onto styling and try to replicate the image above
 
